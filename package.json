@@ -1,0 +1,22 @@
+{
+  "name": "vue-start-nmh",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vuelidate/core": "^2.0.2",
+    "@vuelidate/validators": "^2.0.2",
+    "bootstrap": "^5.3.0-alpha3",
+    "core-js": "^3.8.3",
+    "vue": "^3.2.13",
+    "vuelidate": "^0.7.7"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "json-server": "^0.17.3"
+  }
+}

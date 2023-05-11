@@ -120,7 +120,7 @@
                     Gold Membership: </label>
                         <input type="radio"  class="f-top form-check-input" id="checkbox-2" name="" value="gold"  v-model.trim="form.membership" >
                                     
-                                
+                                 
                 </div>
                 <div class="col-4 d-pack form-group text-left">
                     <label for="checkbox-3" class="col-form-label col-form-label-sm justify-content-start">

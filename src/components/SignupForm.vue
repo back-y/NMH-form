@@ -109,7 +109,7 @@
             <div class="col-4 d-pack form-group text-left checkbox-xl">
                     <label for="checkbox-1" class="col-form-label form-check-label col-form-label-sm justify-content-start">
                         Platinum Membership: </label>
-                        <input type="radio"  class=" f-top form-check-input" id="checkbox-1" name="" value="platinum"
+                        <input type="radio" checked="checked"  class=" f-top form-check-input" id="checkbox-1" name="" value="platinum"
                         
                         v-model.trim="form.membership"
                                 >
